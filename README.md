@@ -10,6 +10,8 @@
 
 [<img align="left" alt="boronov | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+[<img align="left" alt="boronov | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+
 <br />
 
 ### Languages and Tools:
@@ -27,3 +29,4 @@
 
 
 [instagram]: https://instagram.com/boronov_11
+[telegram]: https://t.me/boronov_11
