@@ -1,4 +1,4 @@
-### Hi there, I'm Faridun - aka [boronov][website] 👋
+### Hi there, I'm Faridun 👋
 
 ## I'm a Student, Developer, and Gamer!
 - 🔭 I’m currently learning in HumoLab!
