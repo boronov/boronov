@@ -1,7 +1,7 @@
 ### Hi there, I'm Faridun 👋
 
 ## I'm a Student, Developer, and Gamer!
-- 🔭 I’m currently learning in HumoLab!
+- 🔭 I’m currently study in HumoLab!
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to watch TV, play CS:GO and evening walks
