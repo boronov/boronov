@@ -1,6 +1,6 @@
 ### Hi there, I'm Faridun 👋
 
-## I'm a Student, Developer, and Gamer!
+## I'm a Developer and Gamer!
 - 🔭 I’m currently work in HumoLab!
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I love to watch TV, play CS:GO and evening walks
